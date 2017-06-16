@@ -17,7 +17,6 @@ Spis dokumentów
 * `Format danych EZD <format-danych-ezd.rst>`_
 * `Zapis propozycji nowej budowy metadanych Niezbędnych Elementów Struktury (NES) dokumentów elektronicznych <nes_bnf_komentarz.md>`_
 * `Zasady konstrukcji API <zasady-konstrukcji-api.rst>`_
-* `Decyzje programistyczne — platforma aplikacje.gov.pl <decyzje-programistyczne.rst>`_
 * `Eksperymenty programistyczne na eDoku 4 <eksperymenty-programistyczne-na-edoku4.rst>`_
 * `Model migracji z systemów EZD PUW i eDok <migracja.rst>`_
 * `Analiza istniejących rozwiązań marketplace’ów <analiza-istniejacych-rozwiazan-marketplace.rst>`_
